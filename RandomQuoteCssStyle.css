@@ -1,0 +1,66 @@
+.MainBody
+{
+	background-color:#ffffff;
+	transition: color .3s ease-in-out;
+}
+
+
+.Page_Title
+{
+   text-align:center;
+   font-size:500%;
+  font-family: 'Tangerine', serif;
+  padding-top:1%;
+  background-color:white;
+  color:#ffffff;
+  margin:auto;
+  width:50%;
+  height:30%;
+  margin-top:2%;
+  
+}
+
+.buttonTable
+{
+	height:20%;
+	width:100%;
+	margin:auto;
+}
+.CenterQuoteBlock
+{ 
+  margin:auto;
+  font-size:200%;
+  color:#ffffff; 
+  font-family: 'Pacifico', cursive;
+  background-color:white;
+  border-style: none;
+  border-color: black;
+  text-align:center;
+  width:50%;
+  height:270px;
+  margin-top:10%;
+ # margin-bottom:20%;
+  min-height: 100px;
+}
+
+#OuterQuote
+{
+	font-family:'Satisfy', cursive;
+	font-size:180%;
+}
+.QuoteButton
+{
+	text-align:center;
+	#position:absolute;
+	background-color:#ffffff;
+	color:white;
+	margin:auto;
+	margin-top:2%;
+}
+
+.QuoteButton:hover
+{
+	color:black;
+	background-color:black;
+	border
+}    
